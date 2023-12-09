@@ -17,6 +17,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-position:center;
 }
 .main h2{
     /* margin-top: 200px; */
